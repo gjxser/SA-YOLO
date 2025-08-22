@@ -27,4 +27,4 @@ Trained models will be saved in:
 ./ultralytics-main/runs/train/
 
 ## 3. Citation
-If you use ISUAV-D dataset in your research, please cite this paper.
+If you use ISUAV-D dataset in your research, please cite our paper.
