@@ -5,7 +5,7 @@
 ### 1.1 ISUAV-D Dataset
 - **Baidu Netdisk**: [Download Link](https://pan.baidu.com/s/1u2ch4_uY9lnJ28tY3-8x9g)
 - **Extraction Code**: `SAYO`
-- 
+
 ### 1.2 Other Supported Datasets
 | Dataset Name | Official Source |
 |--------------|-----------------|
@@ -16,15 +16,13 @@
 | IST-A | [GitHub Repository](https://github.com/SeaHifly/Infrared-Small-Target) |
 
 ## 2. Code Execution
-### 2.1 Dataset Preparation
-Place downloaded datasets in:
 
-### 2.2 Model Training
+### 2.1 Model Training
 Run the training script:
 bash
 python train_detect.py
 
-### 2.3 Output Files
+### 2.2 Output Files
 Trained models will be saved in:
 ./ultralytics-main/runs/train/
 
