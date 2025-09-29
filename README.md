@@ -1,5 +1,4 @@
 # SA-YOLO: Spectral-Aware YOLOv11 Network for Infrared Dim and Small Target Detection
-<img width="991" height="879" alt="image" src="https://github.com/user-attachments/assets/23bb8a9d-142c-4a8b-8e9f-1906fd7dc4f4" />
 
 ## 1. Dataset Download
 ### 1.1 ISUAV-D Dataset
